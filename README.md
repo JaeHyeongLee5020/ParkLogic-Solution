@@ -13,7 +13,7 @@
 - **Firebase 연동**
   - 사용자 인증 (Authentication)
   - 예약 및 감지 데이터 실시간 저장 (Realtime Database)
-- **DrawerLayout 기반 UI 구성**
+- **Android APP UI 구성**
   - 내 정보 / 주차 예약 / 내 예약 정보 / 커뮤니티 / 시간 구매 / 로그아웃
 - **실시간 알림 기능**
   - 사고 감지 시 Android 상태바에 알림 전송
