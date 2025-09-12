@@ -44,8 +44,8 @@ CCTV 영상을 실시간으로 분석하여 주차장에서 발생할 수 있는
 | **📱 Android App** | `Kotlin`, `Android SDK`, `XML` |
 | **🤖 AI & Server** | `Python`, `Spring Boot`, `TensorFlow (CNN)`, `OpenCV` |
 | **🌐 Web (Admin)** | `JSP`, `Bootstrap`, `Thymeleaf` |
-| **💾 DB & Infra** | `Firebase Authentication`, `Firebase Realtime Database` |
-| **🔗 Tools** | `Git`, `GitHub`, `Gradle`, `Google Drive` |
+| **💾 DB & Infra** | `OracleBD`, `Firebase Realtime Database` |
+| **🔗 Tools** | `Git`, `Gradle`, `Google Drive` |
 
 ---
 
