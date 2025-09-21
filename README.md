@@ -60,3 +60,62 @@ CCTV 영상을 실시간으로 분석하여 주차장에서 발생할 수 있는
 ## 📁 프로젝트 전체 소스
 
 - **[Google Drive에서 전체 프로젝트 다운로드](https://drive.google.com/file/d/1CeVgqceX2L2qFteHeXAozK5evTUvmVsp/view)**
+
+
+
+
+
+
+
+# 🅿️ ParkLogic Solution: AI 기반 통합 주차 관제 시스템
+
+**"주차, 불편함을 넘어 스마트한 경험으로"**
+
+ParkLogic Solution은 단순한 주차 공간 예약 앱을 넘어, **AI 영상 분석**과 **실시간 데이터 연동**을 통해 사용자 편의와 안전을 동시에 책임지는 통합 스마트 주차 관리 시스템입니다.  
+번거로운 주차 과정은 간소화하고, 예측하지 못한 위험으로부터 사용자를 보호하기 위해 시작되었습니다.
+
+[![](http://img.youtube.com/vi/31I_VQlAgsk/0.jpg)](https://youtu.be/31I_VQlAgsk?si=ydVSLiqvB_XEAxWU)  
+> *(이미지를 클릭하면 프로젝트 시연 영상을 확인할 수 있습니다.)*
+
+---
+
+## ✨ 주요 기능 (Key Features)
+
+### 📱 Android 앱: 직관적이고 편리한 사용자 경험
+- **실시간 주차장 조회 및 예약**: 제휴 주차장(장안대, 협성대, 수원대 등)의 잔여 공간을 확인하고 간편 예약 가능  
+- **예약 관리 및 이용권 구매**: 예약 현황 확인 및 시간 연장/구매 기능 제공  
+- **커뮤니티 기능**: 주차장 이용자 간 정보 공유 공간 제공  
+- **안심 알림 서비스**: 폭행, 쓰레기 투기 등 이상 상황 발생 시 실시간 푸시 알림 제공  
+
+### 🧠 AI 서버: 지능형 주차장 안전 관리자
+- **이상 행동 감지**: `폭행`, `절도`, `기물파손`, `쓰레기 투기`, `흡연`, `위협` 등 7가지 상황 자동 식별  
+- **정확도 향상 처리**: 동일 상황이 **10프레임 이상 연속** 감지될 경우만 기록 및 알림 전송  
+- **실시간 이벤트 기록**: Firebase Realtime Database에 감지 이벤트를 즉시 기록 및 관리자 연동  
+
+### 🌐 웹 관리자 페이지: 효율적인 주차 운영
+- **실시간 대시보드**: 예약 현황, 입출차 내역, AI 이벤트를 통합 모니터링  
+- **사용자·데이터 관리**: 사용자 정보, 결제·예약 내역 관리 및 통계 제공  
+
+---
+
+## 🛠️ 기술 스택 (Tech Stack)
+
+| 구분 | 기술 |
+| :--- | :--- |
+| **📱 Android App** | `Kotlin`, `Android SDK`, `XML` |
+| **🤖 AI & Server** | `Python`, `Spring Boot`, `TensorFlow (CNN)`, `OpenCV` |
+| **🌐 Web (Admin)** | `JSP`, `Bootstrap`, `Thymeleaf` |
+| **💾 DB & Infra** | `Oracle DB`, `Firebase Realtime Database` |
+| **🔗 Tools** | `Git`, `Gradle`, `Google Drive` |
+
+---
+
+## 🚀 프로젝트 목표
+> **"안전하고 편리한 주차 경험의 새로운 기준"**  
+>
+> 단순 예약을 넘어, **AI 기반 위험 감지**와 **실시간 데이터 처리**를 통해 사용자와 관리자가 모두 신뢰할 수 있는 **차세대 스마트 주차 솔루션**을 구축하는 것을 목표로 합니다.
+
+---
+
+## 📁 프로젝트 소스
+- **[Google Drive에서 전체 프로젝트 다운로드](https://drive.google.com/file/d/1CeVgqceX2L2qFteHeXAozK5evTUvmVsp/view)**  
